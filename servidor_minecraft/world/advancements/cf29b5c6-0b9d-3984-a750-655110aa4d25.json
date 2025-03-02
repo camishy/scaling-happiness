@@ -20,6 +20,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-03-02 22:31:49 +0000"
@@ -56,9 +62,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-03-02 22:43:31 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_boots": {
+    "criteria": {
+      "has_white_wool": "2025-03-02 22:43:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-03-02 22:24:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_chestplate": {
+    "criteria": {
+      "has_coal": "2025-03-02 22:39:09 +0000"
     },
     "done": true
   },
@@ -74,9 +98,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_axe": "2025-03-02 22:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-03-02 22:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
     },
     "done": true
   },
@@ -104,6 +152,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-03-02 22:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-02 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2025-03-02 22:27:52 +0000"
@@ -125,6 +191,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-03-02 22:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-03-02 22:43:31 +0000"
     },
     "done": true
   },
@@ -152,6 +224,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_leggings": {
+    "criteria": {
+      "has_coal": "2025-03-02 22:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-03-02 22:23:37 +0000"
@@ -170,9 +248,27 @@
     },
     "done": true
   },
+  "spartanshields:recipes/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-03-02 22:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-02 22:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
     },
     "done": true
   },
@@ -206,6 +302,24 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/strawhat_leggings": {
+    "criteria": {
+      "has_white_wool": "2025-03-02 22:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-03-02 22:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-03-02 22:24:43 +0000"
@@ -221,6 +335,12 @@
   "biomesoplenty:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-03-02 22:23:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_chestplate": {
+    "criteria": {
+      "has_white_wool": "2025-03-02 22:43:31 +0000"
     },
     "done": true
   },
@@ -272,6 +392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-03-02 22:43:31 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/zombie_helmet": {
     "criteria": {
       "has_rotten_flesh": "2025-03-02 22:31:49 +0000"
@@ -290,9 +416,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-02 22:42:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_helmet": {
+    "criteria": {
+      "has_white_wool": "2025-03-02 22:43:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-03-02 22:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-03-02 22:39:09 +0000"
     },
     "done": true
   },
@@ -314,9 +458,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-03-02 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_boots": {
+    "criteria": {
+      "has_coal": "2025-03-02 22:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-02 22:27:52 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-02 22:42:10 +0000"
     },
     "done": true
   },
@@ -332,6 +500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-03-02 22:23:16 +0000"
@@ -341,6 +515,12 @@
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-02 22:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-03-02 22:43:31 +0000"
     },
     "done": true
   },
@@ -374,9 +554,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-03-02 22:43:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-02 22:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-02 22:42:10 +0000"
     },
     "done": true
   },
@@ -398,6 +590,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_helmet": {
+    "criteria": {
+      "has_coal": "2025-03-02 22:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-03-02 22:39:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-03-02 22:23:16 +0000"
@@ -407,6 +611,12 @@
   "biomesoplenty:recipes/transportation/empyreal_boat": {
     "criteria": {
       "in_water": "2025-03-02 22:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-03-02 22:42:10 +0000"
     },
     "done": true
   },
@@ -434,9 +644,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-03-02 22:43:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-02 22:43:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-03-02 22:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
     },
     "done": true
   },
@@ -464,6 +692,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-02 22:43:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-03-02 22:31:49 +0000"
@@ -482,6 +716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-02 22:42:10 +0000"
+    },
+    "done": true
+  },
   "spore:spore": {
     "criteria": {
       "requirement": "2025-03-02 22:23:19 +0000"
@@ -494,6 +734,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-03-02 22:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-02 22:42:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-03-02 22:28:39 +0000"
@@ -502,9 +766,17 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-03-02 22:34:33 +0000",
+      "potato": "2025-03-02 22:43:05 +0000",
       "bread": "2025-03-02 22:27:19 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
+    },
+    "done": true
   },
   "knightquest:recipes/misc/tunic_blue_leggings": {
     "criteria": {
@@ -512,9 +784,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-02 22:42:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-02 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
     },
     "done": true
   },
@@ -527,6 +811,18 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-02 22:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-03-02 22:42:10 +0000"
     },
     "done": true
   },
