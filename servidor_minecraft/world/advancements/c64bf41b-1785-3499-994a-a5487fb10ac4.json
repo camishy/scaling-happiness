@@ -1,0 +1,33 @@
+{
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-03-02 06:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-02 06:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-03-02 06:07:24 +0000"
+    },
+    "done": false
+  },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched_0": "2025-03-02 06:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-03-02 22:18:03 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
