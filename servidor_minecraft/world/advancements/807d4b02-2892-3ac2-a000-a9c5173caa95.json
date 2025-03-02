@@ -462,6 +462,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/wither_helmet": {
+    "criteria": {
+      "has_bone": "2025-03-02 22:49:25 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/tunic_red_leggings": {
     "criteria": {
       "has_leather": "2025-03-02 22:22:28 +0000"
@@ -498,6 +504,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/skeleton_chestplate": {
+    "criteria": {
+      "has_bone": "2025-03-02 22:49:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-03-02 22:31:10 +0000"
@@ -507,6 +519,24 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-03-02 22:18:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/wither_boots": {
+    "criteria": {
+      "has_bone": "2025-03-02 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-02 22:49:17 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_chestplate": {
+    "criteria": {
+      "has_water_bucket": "2025-03-02 22:46:30 +0000"
     },
     "done": true
   },
@@ -582,6 +612,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/pirate_leggings": {
+    "criteria": {
+      "has_bone": "2025-03-02 22:49:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-03-02 22:27:50 +0000"
@@ -591,6 +627,18 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-03-02 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-02 22:50:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_boots": {
+    "criteria": {
+      "has_water_bucket": "2025-03-02 22:46:30 +0000"
     },
     "done": true
   },
@@ -642,6 +690,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/pirate_helmet": {
+    "criteria": {
+      "has_bone": "2025-03-02 22:49:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-03-02 22:22:28 +0000"
@@ -657,6 +711,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-03-02 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-02 22:50:27 +0000"
     },
     "done": true
   },
@@ -690,6 +750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-02 22:51:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-03-02 22:22:31 +0000"
@@ -714,6 +780,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/wither_leggings": {
+    "criteria": {
+      "has_bone": "2025-03-02 22:49:25 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/copper_tower_shield": {
     "criteria": {
       "has_copper_ingot": "2025-03-02 22:36:14 +0000"
@@ -725,6 +797,14 @@
       "has_copper_ingot": "2025-03-02 22:36:14 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-03-02 22:49:24 +0000",
+      "minecraft:spider": "2025-03-02 22:49:53 +0000",
+      "minecraft:zombie": "2025-03-02 22:51:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
@@ -753,6 +833,30 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-03-02 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate_boots": {
+    "criteria": {
+      "has_bone": "2025-03-02 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_helmet": {
+    "criteria": {
+      "has_water_bucket": "2025-03-02 22:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-02 22:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-02 22:49:25 +0000"
     },
     "done": true
   },
@@ -792,6 +896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-02 22:50:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-03-02 22:22:31 +0000"
@@ -813,6 +923,12 @@
   "knightquest:recipes/misc/chainmail_helmet": {
     "criteria": {
       "has_iron_axe": "2025-03-02 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/wither_chestplate": {
+    "criteria": {
+      "has_bone": "2025-03-02 22:49:25 +0000"
     },
     "done": true
   },
@@ -843,6 +959,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-03-02 22:28:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skeleton_helmet": {
+    "criteria": {
+      "has_bone": "2025-03-02 22:49:25 +0000"
     },
     "done": true
   },
@@ -888,6 +1010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-02 22:51:08 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/path_helmet": {
     "criteria": {
       "has_leather": "2025-03-02 22:22:28 +0000"
@@ -897,6 +1025,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-03-02 22:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-02 22:51:08 +0000"
     },
     "done": true
   },
@@ -915,6 +1049,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-03-02 22:36:14 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate_chestplate": {
+    "criteria": {
+      "has_bone": "2025-03-02 22:49:25 +0000"
     },
     "done": true
   },
@@ -951,6 +1091,12 @@
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-03-02 22:33:08 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_leggings": {
+    "criteria": {
+      "has_water_bucket": "2025-03-02 22:46:30 +0000"
     },
     "done": true
   },
@@ -1020,6 +1166,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/skeleton_boots": {
+    "criteria": {
+      "has_bone": "2025-03-02 22:49:25 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/path_chestplate": {
     "criteria": {
       "has_leather": "2025-03-02 22:22:28 +0000"
@@ -1029,6 +1181,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-03-02 22:22:31 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skeleton_leggings": {
+    "criteria": {
+      "has_bone": "2025-03-02 22:49:25 +0000"
     },
     "done": true
   },
@@ -1059,6 +1217,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-03-02 22:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-02 22:51:08 +0000"
     },
     "done": true
   },
@@ -1101,6 +1265,12 @@
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-03-02 22:22:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-03-02 22:49:25 +0000"
     },
     "done": true
   },
@@ -1152,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-02 22:51:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-03-02 22:22:31 +0000"
@@ -1161,6 +1337,12 @@
   "knightquest:recipes/misc/zombie_boots": {
     "criteria": {
       "has_rotten_flesh": "2025-03-02 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-02 22:46:30 +0000"
     },
     "done": true
   },
@@ -1179,6 +1361,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-02 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-02 22:50:27 +0000"
     },
     "done": true
   },
@@ -1209,6 +1397,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-03-02 22:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-03-02 22:49:24 +0000"
     },
     "done": true
   },
@@ -1272,6 +1466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-02 22:51:08 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/steel_sword": {
     "criteria": {
       "has_iron_sword": "2025-03-02 22:18:41 +0000"
@@ -1287,6 +1487,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-02 22:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-02 22:50:27 +0000"
     },
     "done": true
   },
