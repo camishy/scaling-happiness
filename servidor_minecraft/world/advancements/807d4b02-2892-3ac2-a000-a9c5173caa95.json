@@ -547,6 +547,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/creeper_leggings": {
+    "criteria": {
+      "has_gunpowder": "2025-03-02 23:30:45 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/wither_boots": {
     "criteria": {
       "has_bone": "2025-03-02 22:49:25 +0000"
@@ -574,6 +580,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-02 22:30:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-03-02 23:30:45 +0000"
     },
     "done": true
   },
@@ -709,6 +721,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-02 23:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-02 23:29:38 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/husk_boots": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
@@ -742,6 +766,12 @@
   "knightquest:recipes/misc/polar_chestplate": {
     "criteria": {
       "has_iron_axe": "2025-03-02 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-03-02 23:21:34 +0000"
     },
     "done": true
   },
@@ -829,6 +859,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "old_growth_woodland": "2025-03-02 23:27:22 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/husk_leggings": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
@@ -875,6 +911,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-02 22:49:24 +0000",
       "minecraft:spider": "2025-03-02 22:49:53 +0000",
+      "minecraft:cave_spider": "2025-03-02 23:23:14 +0000",
       "minecraft:zombie": "2025-03-02 22:51:34 +0000"
     },
     "done": false
@@ -912,6 +949,12 @@
   "knightquest:recipes/misc/pirate_boots": {
     "criteria": {
       "has_bone": "2025-03-02 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_boots": {
+    "criteria": {
+      "has_gunpowder": "2025-03-02 23:30:45 +0000"
     },
     "done": true
   },
@@ -1047,6 +1090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-02 23:29:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-03-02 22:22:28 +0000"
@@ -1122,6 +1171,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-02 22:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-02 23:29:38 +0000"
     },
     "done": true
   },
@@ -1335,6 +1390,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/creeper_chestplate": {
+    "criteria": {
+      "has_gunpowder": "2025-03-02 23:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-03-02 22:17:13 +0000"
@@ -1461,6 +1522,18 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "old_growth_woodland": "2025-03-02 23:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-02 23:29:38 +0000"
+    },
+    "done": true
+  },
   "man:feelingwatched": {
     "criteria": {
       "feelingwatched_0": "2025-03-02 22:37:05 +0000"
@@ -1545,9 +1618,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-02 23:29:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-03-02 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_helmet": {
+    "criteria": {
+      "has_gunpowder": "2025-03-02 23:30:45 +0000"
     },
     "done": true
   },
@@ -1629,6 +1714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-02 23:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-03-02 22:19:26 +0000"
@@ -1656,6 +1747,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-02 22:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-02 23:30:45 +0000"
     },
     "done": true
   },
@@ -1752,6 +1849,12 @@
   "knightquest:recipes/misc/conquistador_boots": {
     "criteria": {
       "has_leather": "2025-03-02 22:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-02 23:29:38 +0000"
     },
     "done": true
   },
