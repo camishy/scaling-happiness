@@ -618,6 +618,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_apple": "2025-03-02 23:14:52 +0000",
+      "golden_carrot": "2025-03-02 23:43:35 +0000",
       "carrot": "2025-03-02 22:41:55 +0000"
     },
     "done": false
@@ -966,6 +967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-03-02 23:39:04 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bamboo_blue_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 23:24:36 +0000"
@@ -975,6 +982,12 @@
   "knightquest:recipes/misc/tunic_green_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-03-02 23:25:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-03-02 23:40:38 +0000"
     },
     "done": true
   },
@@ -999,6 +1012,12 @@
   "knightquest:recipes/misc/enderman_helmet": {
     "criteria": {
       "has_ender_pearl": "2025-03-02 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-02 23:39:04 +0000"
     },
     "done": true
   },
@@ -1068,9 +1087,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-03-02 23:39:04 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bamboo_green_leggings": {
     "criteria": {
       "has_emerald": "2025-03-02 23:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-03-02 23:38:51 +0000"
     },
     "done": true
   },
@@ -1080,15 +1111,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-03-02 23:40:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 23:24:36 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-03-02 23:40:43 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/enderman_leggings": {
     "criteria": {
       "has_ender_pearl": "2025-03-02 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-03-02 23:40:07 +0000"
     },
     "done": true
   },
@@ -1101,6 +1150,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-02 23:39:04 +0000"
     },
     "done": true
   },
@@ -1170,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-02 23:39:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 23:24:36 +0000"
@@ -1182,9 +1243,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-03-02 23:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-03-02 23:39:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-03-02 23:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-02 23:39:04 +0000"
     },
     "done": true
   },
@@ -1218,6 +1297,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-03-02 23:40:41 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/golden_basic_shield": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 23:24:36 +0000"
@@ -1230,6 +1315,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-03-02 23:40:41 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bamboo_boots": {
     "criteria": {
       "has_coal": "2025-03-02 23:24:37 +0000"
@@ -1239,6 +1330,12 @@
   "knightquest:recipes/misc/warlord_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-02 23:40:40 +0000"
     },
     "done": true
   },
@@ -1269,6 +1366,24 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-02 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-03-02 23:39:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-03-02 23:40:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-03-02 23:40:43 +0000"
     },
     "done": true
   },
@@ -1320,6 +1435,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-02 23:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-03-02 23:19:27 +0000"
@@ -1356,6 +1477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-03-02 23:39:04 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/enderman_chestplate": {
     "criteria": {
       "has_ender_pearl": "2025-03-02 23:24:36 +0000"
@@ -1380,6 +1507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-02 23:38:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-03-02 23:27:54 +0000"
@@ -1401,6 +1534,18 @@
   "spore:spore": {
     "criteria": {
       "requirement": "2025-03-02 23:18:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-03-02 23:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-02 23:38:20 +0000"
     },
     "done": true
   },
@@ -1452,9 +1597,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-03-02 23:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-03-02 23:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-02 23:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-02 23:40:40 +0000"
     },
     "done": true
   },
