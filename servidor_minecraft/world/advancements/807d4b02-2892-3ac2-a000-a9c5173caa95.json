@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lukewarm_ocean": "2025-03-02 23:18:01 +0000",
       "minecraft:savanna": "2025-03-02 22:39:32 +0000",
       "minecraft:plains": "2025-03-02 06:07:46 +0000"
     },
@@ -468,6 +469,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/wither_helmet": {
     "criteria": {
       "has_bone": "2025-03-02 22:49:25 +0000"
@@ -516,6 +523,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/horn_boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-03-02 22:31:10 +0000"
@@ -525,6 +538,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-03-02 22:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
     },
     "done": true
   },
@@ -564,9 +583,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/husk_helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/conquistador_leggings": {
     "criteria": {
       "has_leather": "2025-03-02 22:22:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
     },
     "done": true
   },
@@ -669,6 +706,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-03-02 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
     },
     "done": true
   },
@@ -783,6 +826,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-02 22:55:56 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
     },
     "done": true
   },
@@ -932,9 +981,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/evoker_chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-03-02 22:55:56 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
     },
     "done": true
   },
@@ -1202,6 +1263,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/horn_helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-03-02 22:20:31 +0000"
@@ -1334,6 +1401,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/evoker_leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-03-02 22:17:13 +0000"
@@ -1409,6 +1482,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-03-02 22:28:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
     },
     "done": true
   },
@@ -1496,6 +1575,12 @@
     },
     "done": true
   },
+  "spore:spore": {
+    "criteria": {
+      "requirement": "2025-03-02 23:20:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-03-02 22:49:24 +0000"
@@ -1574,6 +1659,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/husk_chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/steel_sword": {
     "criteria": {
       "has_iron_sword": "2025-03-02 22:18:41 +0000"
@@ -1589,6 +1680,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-02 22:28:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 23:20:10 +0000"
     },
     "done": true
   },
